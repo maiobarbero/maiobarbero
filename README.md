@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm Matteo aka Maio</h1>
-<h3 align="center">A passionate developer & web designer from Italy</h3>
+<h1 align="center">Hello everyone</h1>
+<p>I'm Matteo Barbero, I'm a creative developer focused on :box: Javascript and :newspaper: Wordpress from :it: Italy</p>
