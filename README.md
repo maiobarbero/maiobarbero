@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matteo Barbero</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [www.maiowebdesign.it](www.maiowebdesign.it)
 
