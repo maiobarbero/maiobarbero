@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Italy</h3>
 
 
-- 👨‍💻 All of my projects are available at [www.maiobarbero.dev](www.maiobarbero.dev)
+- 👨‍💻 All of my projects are available at [www.maiobarbero.dev](https://www.maiobarbero.dev)
 
-- 📄 Know about my experiences [Download my CV]((https://maiobarbero.dev/_astro/Matteo_Barbero_-_Web_Developer.3dae0b8e.pdf)
+- 📄 Know about my experiences [Download my CV](https://maiobarbero.dev/_astro/Matteo_Barbero_-_Web_Developer.3dae0b8e.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
