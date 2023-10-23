@@ -12,4 +12,6 @@
 </p>
 
 <h3 align="left">Badges & Contributions:</h3>
-[![@maiobarbero Astro contributions](https://astro.badg.es/v2/contributor/maiobarbero.svg)](https://astro.badg.es/contributor/maiobarbero/)
+<a href="https://astro.badg.es/contributor/maiobarbero/">
+  <img src="https://astro.badg.es/v2/contributor/maiobarbero.svg" alt="@maiobarbero Astro contributions" width="260" height="156">
+</a>
