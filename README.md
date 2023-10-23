@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Italy</h3>
 
 
-- 👨‍💻 All of my projects are available at [www.maiobarbero.dev](https://www.maiobarbero.dev)
+- 👨‍💻 All of my projects are available here on Github and at [www.maiobarbero.dev](https://www.maiobarbero.dev)
 
 - 📄 Know about my experiences [Download my CV](https://maiobarbero.dev/_astro/Matteo_Barbero_-_Web_Developer.3dae0b8e.pdf)
 
@@ -11,3 +11,5 @@
 <a href="https://linkedin.com/in/matteo-barbero-b04647155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo-barbero-b04647155" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Badges & Contributions:</h3>
+[![@maiobarbero Astro contributions](https://astro.badg.es/v2/contributor/maiobarbero.svg)](https://astro.badg.es/contributor/maiobarbero/)
