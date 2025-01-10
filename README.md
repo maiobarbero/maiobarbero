@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available here on Github and at [www.maiobarbero.dev](https://www.maiobarbero.dev)
 
-- 📄 Know about my experiences [Download my CV](https://maiobarbero.dev/_astro/Matteo_Barbero_-_Web_Developer.0463cb2e.pdf)
+- 📄 Know about my experiences [Download my CV](https://maiobarbero.dev/_astro/Matteo_Barbero_-_Web_Developer.Dyu3WH0Q.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
