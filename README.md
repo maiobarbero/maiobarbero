@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Matteo Barbero</h1>
-<h3 align="center">Tech Lead · Backend Engineer · Ultra Runner · Raccoon Fan</h3>
+# Hi, I'm Matteo, also known as Maio.
 
-<p align="center">
-  Based in Groningen, NL. I build backend systems and occasionally run very long distances.
-</p>
+Backend engineer, tech lead, and ultra runner based in Groningen, NL.
 
----
+My work spans backend development, software architecture, and the technical
+decisions behind data-intensive products. I work on legacy modernisation
+and AI integrations, with PHP, TypeScript, Python, and Docker.
 
-- 🏗️ Currently leading engineering at **De Innovatiespotter**, working on data-driven products, AI integrations and legacy modernisation
-- ✍️ I write about backend development and engineering at [maiobarbero.dev](https://www.maiobarbero.dev)
-- 🎓 Currently completing **Management of Engineering Projects: Dealing with Complexity** @ TU Delft
-- 📄 [Download my CV](https://maiobarbero.dev/_astro/Matteo_Barbero_-_Web_Developer.Dyu3WH0Q.pdf)
+I write about the things I build and investigate, from Laravel internals
+to AI-assisted development and the complexity of engineering projects.
+You'll find my articles and courses at [maiobarbero.dev](https://www.maiobarbero.dev).
 
----
+## Some of my work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/matteo-barbero" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo-barbero" height="30" width="40" />
-  </a>
-</p>
+- [Astro Academia](https://github.com/maiobarbero/astro_academia):
+  an Astro starter template for academic websites.
+- [Dettami](https://github.com/maiobarbero/dettami):
+  a speech-to-text project using Laravel's AI SDK.
+- [Personal finance with Laravel](https://github.com/maiobarbero/laravel_filament_personal_finance):
+  the project behind my Laravel and Filament course.
 
----
+Outside software, I run long distances. And yes, I like raccoons.
+
+[Articles](https://www.maiobarbero.dev/articles/) ·
+[Courses](https://www.maiobarbero.dev/courses/) ·
+[LinkedIn](https://www.linkedin.com/in/matteo-barbero/) ·
+[CV](https://www.maiobarbero.dev/Matteo_Barbero.pdf)
