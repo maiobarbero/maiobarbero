@@ -1,6 +1,6 @@
 # Hi, I'm Matteo, also known as Maio.
 
-Backend engineer, tech lead, and ultra runner based in Groningen, NL.
+Backend engineer, tech lead, and ultra runner.
 
 My work spans backend development, software architecture, and the technical
 decisions behind data-intensive products. I work on legacy modernisation
