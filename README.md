@@ -1,4 +1,10 @@
-# Hi, I'm Matteo, also known as Maio.
+<div align="center">
+
+Backend engineer, tech lead, and ultra runner from Turin, Italy 🇮🇹<br>
+
+[Website](https://www.maiobarbero.dev) · [LinkedIn](https://www.linkedin.com/matteo-barbero)
+
+</div>
 
 Backend engineer, tech lead, and ultra runner.
 
