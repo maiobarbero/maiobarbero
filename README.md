@@ -2,7 +2,7 @@
 
 Backend engineer, tech lead, and ultra runner from Turin, Italy 🇮🇹<br>
 
-[Website](https://www.maiobarbero.dev) · [LinkedIn](https://www.linkedin.com/matteo-barbero)
+[Website](https://www.maiobarbero.dev) · [LinkedIn](https://www.linkedin.com/in/matteo-barbero)
 
 </div>
 
