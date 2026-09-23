@@ -11,12 +11,12 @@ Backend engineer, tech lead, and ultra runner from Turin, Italy 🇮🇹<br>
 
 ---
 
-### 🦝 Who I am
+## 🦝 My Work
 
 My work spans backend development, software architecture, and the technical decisions behind data-intensive products. I work on legacy modernisation and AI integrations, with PHP, TypeScript, Python, and Docker.
 Outside software, I run long distances. And yes, I like raccoons.
 
-### 📦 Open source
+## 📦 Open source
 
 **🪛 Laravel**
 | Package | What it does | Badges |
