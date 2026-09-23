@@ -8,7 +8,9 @@ Backend engineer, tech lead, and ultra runner from Turin, Italy 🇮🇹<br>
 [Website](https://www.maiobarbero.dev) · [LinkedIn](https://www.linkedin.com/in/matteo-barbero)
 
 </div>
+
 ---
+
 ### 🦝 Who I am
 
 My work spans backend development, software architecture, and the technical decisions behind data-intensive products. I work on legacy modernisation and AI integrations, with PHP, TypeScript, Python, and Docker.
