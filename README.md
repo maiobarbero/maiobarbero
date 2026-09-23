@@ -18,7 +18,7 @@ Outside software, I run long distances. And yes, I like raccoons.
 
 ## 📦 Open source
 
-**🪛 Laravel**
+**🐘 PHP**
 | Package | What it does | Badges |
 |---|---|---|
 | [laravel-boost-ddd](https://github.com/maiobarbero/laravel-boost-ddd) | Pragmatic Domain-Driven Design for Laravel apps | <a href="https://packagist.org/packages/maiobarbero/laravel-boost-ddd"><img src="https://badge.laravel.cloud/badge/maiobarbero/laravel-boost-ddd?style=flat" alt="Laravel 13"></a> |
