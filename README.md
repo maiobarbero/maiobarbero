@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maiobarbero/maiobarbero/refs/heads/master/profile-banner.png" alt="Matteo Maio Barbero">
+</p>
 <div align="center">
 
 Backend engineer, tech lead, and ultra runner from Turin, Italy 🇮🇹<br>
